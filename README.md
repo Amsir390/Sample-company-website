@@ -5,7 +5,7 @@ A responsive sample company website built using **HTML** and **CSS**. It is styl
 ---
 
 ## 📸 Preview
-> ![Preview](assets/images/Screenshot_1.png)
+> ![Preview](./Screenshot_1.png)
 
 ---
 
